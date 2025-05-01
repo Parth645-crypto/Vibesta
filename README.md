@@ -1,7 +1,7 @@
-# BuzzMeet
+# Vibesta
 
 ## Overview
-BuzzMeet is a social networking platform developed in C++ that allows users to sign up, log in, send friend requests, view friends, suggest new friends, and share and display their interests. It uses a combination of linked lists, hashing, and graph-based data structures to manage user information, interests, and friendships. The project also includes a "famous interest" feature for which it uses max heap that displays the most popular interests across the platform with the number of users who have that interest tagged.
+Vibesta is a social networking platform developed in C++ that allows users to sign up, log in, send friend requests, view friends, suggest new friends, and share and display their interests. It uses a combination of linked lists, hashing, and graph-based data structures to manage user information, interests, and friendships. The project also includes a "famous interest" feature for which it uses max heap that displays the most popular interests across the platform with the number of users who have that interest tagged.
 
 ## Features
 ### User Authentication:
