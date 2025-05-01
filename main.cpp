@@ -676,7 +676,7 @@ void friends :: suggest_friends(string userName, hashing &ht) {
 void signUp :: user_signUp(string fname) {
     menu m;
     cout << endl;
-    cout << "*************Welcome To BuzzMeet*************" << endl;
+    cout << "*************Welcome To Vibesta*************" << endl;
     cout << "Enter the Username: ";
     cin >> ent.username;
     cout << "Create a Password: ";
@@ -710,7 +710,7 @@ class logIn {
 
 bool logIn :: user_login(string fname) {
     menu m;
-    cout << "*************Welcome To BuzzMeet*************" << endl;
+    cout << "*************Welcome To Vibesta*************" << endl;
     cout << "Enter the Username: ";
     cin >> ent.username;
     cout << "Enter the Password: ";
