@@ -62,7 +62,7 @@ class hashing {
     public:
         static const int SIZE = 10;
         userNode *table[SIZE];
-        vector <interestCountNode> interest;
+        interestCountNode interest[100];
         int interestSize = 0;
 
         hashing() {
@@ -677,6 +677,7 @@ void signUp :: user_signUp(string fname) {
     menu m;
     cout << endl;
     cout << "*************Welcome To Vibesta*************" << endl;
+    cout << "#### Vibes that stay, Moments that slay ####" << endl;
     cout << "Enter the Username: ";
     cin >> ent.username;
     cout << "Create a Password: ";
@@ -711,6 +712,7 @@ class logIn {
 bool logIn :: user_login(string fname) {
     menu m;
     cout << "*************Welcome To Vibesta*************" << endl;
+    cout << "#### Vibes that stay, Moments that slay ####" << endl;
     cout << "Enter the Username: ";
     cin >> ent.username;
     cout << "Enter the Password: ";
