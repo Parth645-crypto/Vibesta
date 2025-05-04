@@ -44,15 +44,15 @@ Max Heap: To rank interest by popularity.
 
 ## Setup and Installation
 ### 1.Clone the repository:
-    git clone https://github.com/your-username/BuzzMeet.git
+    git clone https://github.com/your-username/Vibesta.git
 ### 2.Navigate to the project directory:
-    cd BuzzMeet
+    cd Vibesta
 ### 3.Build the project (using any C++ compatible compiler like g++):
-    g++ main.cpp -o buzzmeet
+    g++ main.cpp -o vibesta
 ### 4.Run the program:
-    ./buzzmeet
+    ./vibesta
 ## File Structure
-  /BuzzMeet
+  /Vibesta
   
   |-- main.cpp            # Entry point of the program
 
